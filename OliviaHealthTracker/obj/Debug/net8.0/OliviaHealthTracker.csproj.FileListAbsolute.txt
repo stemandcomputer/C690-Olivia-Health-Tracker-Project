@@ -1,0 +1,15 @@
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/bin/Debug/net8.0/OliviaHealthTracker
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/bin/Debug/net8.0/OliviaHealthTracker.deps.json
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/bin/Debug/net8.0/OliviaHealthTracker.runtimeconfig.json
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/bin/Debug/net8.0/OliviaHealthTracker.dll
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/bin/Debug/net8.0/OliviaHealthTracker.pdb
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/OliviaHealthTracker.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/OliviaHealthTracker.AssemblyInfoInputs.cache
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/OliviaHealthTracker.AssemblyInfo.cs
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/OliviaHealthTracker.csproj.CoreCompileInputs.cache
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/OliviaHealthTracker.sourcelink.json
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/OliviaHealthTracker.dll
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/refint/OliviaHealthTracker.dll
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/OliviaHealthTracker.pdb
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/OliviaHealthTracker.genruntimeconfig.cache
+/workspaces/C690-Olivia-Health-Tracker-Project/OliviaHealthTracker/obj/Debug/net8.0/ref/OliviaHealthTracker.dll
